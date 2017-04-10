@@ -3,4 +3,12 @@ name = "snake"
 version = "0.1.0"
 authors = ["Mitchell Valine <mitchell.valine@mirumagency.com>"]
 
+[[bin]]
+name = "snake"
+
 [dependencies]
+piston = "0.31.4" 
+piston_window = "0.64.0"
+piston2d-graphics = "0.21.1"
+pistoncore-glutin_window = "0.35.1"
+piston2d-opengl_graphics = "0.42.1"
