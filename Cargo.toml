@@ -7,8 +7,8 @@ authors = ["Mitchell Valine <mitchell.valine@mirumagency.com>"]
 name = "snake"
 
 [dependencies]
-piston = "0.31.4" 
-piston_window = "0.64.0"
+piston = "0.32.0" 
+piston_window = "0.67.0"
 piston2d-graphics = "0.21.1"
-pistoncore-glutin_window = "0.35.1"
-piston2d-opengl_graphics = "0.42.1"
+pistoncore-glutin_window = "0.37.0"
+piston2d-opengl_graphics = "0.44.0"
